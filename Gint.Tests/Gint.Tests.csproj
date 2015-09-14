@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PasrsingTests.cs" />
+    <Compile Include="SortingTests.cs" />
     <Compile Include="SearchingTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
